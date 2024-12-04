@@ -82,8 +82,6 @@ console.log('Bot connected to whatsapp ✅')
 
 let up = `*ASITHA-MD connected successful ✅`;
 
-await conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.postimg.cc/zvpdnfsK/1727229710389.jpg` }, caption: up })
-
 }
 })
 //==========================WELCOME && GOOD BYE==================================================
