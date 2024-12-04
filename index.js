@@ -77,7 +77,6 @@ require("./plugins/" + plugin);
 }
 });
 console.log('Plugins installed successful ✅')
-await connectdb();
 await start_numrep_process();
 console.log('Bot connected to whatsapp ✅')
 
